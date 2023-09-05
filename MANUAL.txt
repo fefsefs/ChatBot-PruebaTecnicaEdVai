@@ -1,0 +1,22 @@
+Hola soy Felipe Cravero, Gracias por esta oportunidad. Acá
+estan los pasos necesarios para la ejecucion de el chat bot
+
+para ejecutar mi chatbot los pasos serian los siguientes:
+
+1. Abrir el script main.py e insertar una API key apta para el
+acceso a los datos de OpenWeather, en la línea 14
+
+2. Abrir el script generadorDeChiste.py e insertar una API key 
+apta para el acceso a HuggingFace, en la línea 17
+
+3. Ahora, ejecutar el script main.py con el intérprete de python 
+y despues de esperar unos segundos se abre un servidor local.
+Aparecerá en la consola una direccion ip y solo hay que hacer
+ctrl + clic izquierdo o copiar y pegar en un navegador web
+la misma
+
+4. Y apartir de ahí ya estaría la interfaz del chat bot abierta, 
+con ejemplos de prompts para interactuar!
+
+
+ 
